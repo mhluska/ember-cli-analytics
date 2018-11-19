@@ -19,7 +19,7 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-adapter-pattern": "^1.2.0",
+    "ember-cli-adapter-pattern": "github:mhluska/ember-cli-adapter-pattern#ember-copy",
     "ember-cli-babel": "^6.6.0",
     "ember-copy": "^1.0.0"
   },
